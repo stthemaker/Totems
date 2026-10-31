@@ -1,10 +1,6 @@
 
-# Project Title
 
-A brief description of what this project does and who it's for
-
-
-## Totems
+# Totems
 this mod adds Totems to the base game of minetest
 
 currently there are 1 type of Totem:-
